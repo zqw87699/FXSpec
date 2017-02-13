@@ -15,6 +15,8 @@ Pod::Spec.new do |s|
 
   s.source_files  = "Classes/*.{h,m}"
 
+  s.public_header_files = "Classes/*.h"
+
   s.frameworks = "Foundation", "UIKit"
 
   s.module_name = 'FX' 
