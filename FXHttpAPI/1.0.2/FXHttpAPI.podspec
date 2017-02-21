@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "FXHttpAPI"
-  s.version      = "1.0.1"
+  s.version      = "1.0.2"
   s.summary      = "日志框架"
 
   s.homepage     = "https://github.com/zqw87699/FXHttpAPI"
