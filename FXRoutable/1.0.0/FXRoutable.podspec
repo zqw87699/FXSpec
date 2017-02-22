@@ -19,7 +19,7 @@ Pod::Spec.new do |s|
 
   s.frameworks = "Foundation", "UIKit"
 
-  s.module_name = 'FXRoutable’ 
+  s.module_name = 'FXRoutable' 
 
   s.requires_arc = true
 
