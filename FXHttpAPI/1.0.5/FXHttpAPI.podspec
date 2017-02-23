@@ -27,7 +27,7 @@ s.subspec 'Core' do |core|
     core.source_files = 'Classes/Core/*'
     core.public_header_files = 'Classes/Core/*.h'
 
-    core.dependency 'FXHttpAPI/API’
+    core.dependency 'FXHttpAPI/API'
     core.dependency 'FXCommon/Core'
     core.dependency 'FXCommon/Utiles'
     core.dependency 'ReactiveObjC', '2.1.2'
