@@ -1,0 +1,10 @@
+source 'https://github.com/CocoaPods/Specs.git'
+source 'https://github.com/zqw87699/FXSpec.git'
+
+platform :ios, '8.0'
+
+target 'FX' do
+	pod 'FXCommon'
+	pod 'FXHttpEngine'
+    pod 'FXRoutable'
+end

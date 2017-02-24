@@ -1,0 +1,1 @@
+../../../FXCommon/Classes/Base/BaseFXHttpRequest.h

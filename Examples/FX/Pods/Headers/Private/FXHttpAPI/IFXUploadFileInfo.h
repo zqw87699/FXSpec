@@ -1,0 +1,1 @@
+../../../FXHttpAPI/Classes/IFXUploadFileInfo.h
