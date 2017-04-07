@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "FXAppContextSwift"
-  s.version      = “1.0.3"
+  s.version      = "1.0.3"
   s.summary      = "FX启动配置框架"
 
   s.homepage     = "https://github.com/zqw87699/FXAppContextSwift"
